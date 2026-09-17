@@ -1,4 +1,4 @@
-Jamf LAPS UI
+Jamf LAPS UI v1.5 (Build 6)
 
 A UI tool for viewing the Jamf LAPS account details for a device without having to access the full Jamf tenant.
 
